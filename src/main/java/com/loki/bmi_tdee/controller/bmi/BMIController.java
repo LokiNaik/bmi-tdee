@@ -4,8 +4,6 @@ import com.loki.bmi_tdee.model.User;
 import com.loki.bmi_tdee.model.results.BMIResult;
 import org.springframework.http.ResponseEntity;
 
-//@RestController
-
 public interface BMIController {
 
     /**
